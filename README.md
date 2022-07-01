@@ -19,19 +19,28 @@ We adopt some good practices that helped us during the development:
 Read the README project together; understand the structure and workflow; we align methods and tools for better synchronous and asynchronous communication; combine availability periods during the weekdays; combine rest and pause moments; set informations and workflow on trello; set goals; transparency; combine good practices and, the most important -> feel free to ask for HELP!
 
 <h1> Local execution </h1>
+
 Project clone (SSH)<br>
-git clone git@github.com:AmorimTorres/recipeApp.git <br>
+```javascript
+git clone git@github.com:AmorimTorres/recipeApp.git
+```
 
 Access directory:<br>
+```javascript
 cd <i> dirName </i>
+```
 
 Install dependencies:<br>
+```javascript
 npm install
+```
 
 Server start (will open in browse):<br>
+```javascript
 npm run start
+```
 
-Tech Stack <br>
+Technologies <br>
 React, Hooks, Bootstrap
 
 <h1> Feedback </h1>
